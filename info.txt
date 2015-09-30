@@ -1,0 +1,6 @@
+name=IDNet
+description=IDNet SDK Wrapper
+author=Codir
+website=http://www.id.net
+version=1.0
+compatibility=all
